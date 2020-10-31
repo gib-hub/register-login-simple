@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "251664990171",
+    "firebase_url": "https://register-login-d0241.firebaseio.com",
+    "project_id": "register-login-d0241",
+    "storage_bucket": "register-login-d0241.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:251664990171:android:3fef5d54fefc35b01c31fe",
+        "android_client_info": {
+          "package_name": "com.kotlin.registerlogin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "251664990171-fqhvhoh875g9srega4dvqk0e67vfr64e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDrcGYe9Hr-PEeHPzdZoB_XObO13G5EKXE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "251664990171-fqhvhoh875g9srega4dvqk0e67vfr64e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
